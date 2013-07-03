@@ -1,0 +1,102 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "X": -75.173695, "Y": 39.948073, "instnm": "Academy of Vocal Arts", "FTE": 28, "ADDRESS": "1920 Spruce St" }, "geometry": { "type": "Point", "coordinates": [ -75.173692691117651, 39.948064853993941 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "X": -75.167573, "Y": 39.951251, "instnm": "The Art Institute of Philadelphia", "FTE": 1996, "ADDRESS": "1622 Chestnut Street" }, "geometry": { "type": "Point", "coordinates": [ -75.16757054086311, 39.951242508142556 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "X": -75.228068, "Y": 40.084524, "instnm": "Chestnut Hill College", "FTE": 1442, "ADDRESS": "9601 Germantown Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.228065038563301, 40.08451626790719 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "X": -74.964573, "Y": 40.090359, "instnm": "CHI Institute", "FTE": 1053, "ADDRESS": "177 Franklin Mills Blvd." }, "geometry": { "type": "Point", "coordinates": [ -74.96457037775383, 40.090350982259146 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "X": -75.170324, "Y": 39.948854, "instnm": "The Curtis Institute of Music", "FTE": 163, "ADDRESS": "1726 Locust St" }, "geometry": { "type": "Point", "coordinates": [ -75.170321171137743, 39.948846253717448 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "X": -75.007036, "Y": 40.069015, "instnm": "Delaware Valley Academy of Medical and Dental Assistants", "FTE": 95, "ADDRESS": "3330 Grant Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.007033418581017, 40.069007307011184 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "X": -75.187067, "Y": 39.953788, "instnm": "Drexel University", "FTE": 16254, "ADDRESS": "3141 Chestnut St" }, "geometry": { "type": "Point", "coordinates": [ -75.187064530536347, 39.953779600340589 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "X": -75.130922, "Y": 39.990858, "instnm": "Episcopal School of Nursing", "FTE": 0, "ADDRESS": "100 E Lehigh Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.130919486063789, 39.990849782961391 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "X": -75.083022, "Y": 40.020285, "instnm": "Aria Health School of Nursing", "FTE": 225, "ADDRESS": "4918 Penn Street" }, "geometry": { "type": "Point", "coordinates": [ -75.083019473452353, 40.020277031401051 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "X": -74.964589, "Y": 40.077232, "instnm": "Empire Beauty School-Philadelphia Woodhaven Rd", "FTE": 135, "ADDRESS": "1026 Woodhaven Rd" }, "geometry": { "type": "Point", "coordinates": [ -74.964586418546205, 40.077223843860764 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "X": -74.988305, "Y": 40.061625, "instnm": "Holy Family University", "FTE": 1712, "ADDRESS": "9801 Frankford Avenue" }, "geometry": { "type": "Point", "coordinates": [ -74.988301845971122, 40.061616805804121 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "X": -75.149177, "Y": 39.948829, "instnm": "Hussian School of Art", "FTE": 150, "ADDRESS": "The Bourse Suite 300 111 S. Independence Mall East" }, "geometry": { "type": "Point", "coordinates": [ -75.14917443483553, 39.948820521961771 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "X": -75.152867, "Y": 40.039233, "instnm": "La Salle University", "FTE": 3753, "ADDRESS": "1900 W Olney Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.152864533163722, 40.039225348158872 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "X": -74.999937, "Y": 40.050284, "instnm": "Lincoln Technical Institute", "FTE": 475, "ADDRESS": "9191 Torresdale Ave" }, "geometry": { "type": "Point", "coordinates": [ -74.999934154970546, 40.050275981469461 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "X": -75.192005, "Y": 40.061499, "instnm": "Lutheran Theological Seminary at Philadelphia", "FTE": 112, "ADDRESS": "7301 Germantown Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.192002330401365, 40.061491167160696 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "X": -75.210362, "Y": 40.028783, "instnm": "Roxborough Memorial Hospital School of Nursing", "FTE": 126, "ADDRESS": "5800 Ridge Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.210359488586519, 40.028775317304721 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "X": -75.164005, "Y": 39.950858, "instnm": "Metropolitan Career Center Computer Technology Institute", "FTE": 88, "ADDRESS": "100 South Broad Street- Suite 830" }, "geometry": { "type": "Point", "coordinates": [ -75.164002111016899, 39.950849980092094 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "X": -75.171412, "Y": 39.957341, "instnm": "Moore College of Art and Design", "FTE": 479, "ADDRESS": "20th and the Parkway" }, "geometry": { "type": "Point", "coordinates": [ -75.171408874277574, 39.957332684071396 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "X": -75.183846, "Y": 39.954873, "instnm": "Thompson Institute", "FTE": 1015, "ADDRESS": "3010 Market St" }, "geometry": { "type": "Point", "coordinates": [ -75.183843325490315, 39.954864795009115 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "X": -75.011291, "Y": 40.091407, "instnm": "Orleans Technical Institute", "FTE": 492, "ADDRESS": "2770 Red Lion Road" }, "geometry": { "type": "Point", "coordinates": [ -75.011288249869111, 40.091398753727887 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "X": -75.166454, "Y": 39.945713, "instnm": "Peirce College", "FTE": 762, "ADDRESS": "1420 Pine Street" }, "geometry": { "type": "Point", "coordinates": [ -75.166451568553768, 39.945705386201951 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "X": -75.162926, "Y": 39.955677, "instnm": "Pennsylvania Academy of the Fine Arts", "FTE": 337, "ADDRESS": "128 N. Broad Street" }, "geometry": { "type": "Point", "coordinates": [ -75.162923254065731, 39.955669236096256 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "X": -75.194051, "Y": 39.95254, "instnm": "University of Pennsylvania", "FTE": 21203, "ADDRESS": "1 College Hall 34th and Spruce Sts" }, "geometry": { "type": "Point", "coordinates": [ -75.194048634400914, 39.952532298839849 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "X": -75.19241, "Y": 40.020482, "instnm": "Philadelphia University", "FTE": 3164, "ADDRESS": "School House Lane and Henry Avenue" }, "geometry": { "type": "Point", "coordinates": [ -75.19240672278049, 40.020473949301817 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "X": -75.165015, "Y": 39.9462, "instnm": "The University of the Arts", "FTE": 2249, "ADDRESS": "320 S Broad St" }, "geometry": { "type": "Point", "coordinates": [ -75.165012281979955, 39.94619240605342 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "X": -75.218574, "Y": 40.004864, "instnm": "Philadelphia College of Osteopathic Medicine", "FTE": 2162, "ADDRESS": "4170 City Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.218571155447023, 40.004855719342693 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "X": -75.209117, "Y": 39.962536, "instnm": "University of the Sciences", "FTE": 2604, "ADDRESS": "600 S 43rd Street" }, "geometry": { "type": "Point", "coordinates": [ -75.209114488022578, 39.962527620398575 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "X": -75.166485, "Y": 39.963043, "instnm": "Community College of Philadelphia", "FTE": 6252, "ADDRESS": "1700 Spring Garden St" }, "geometry": { "type": "Point", "coordinates": [ -75.166482507490954, 39.963035265761867 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "X": -75.207538, "Y": 39.954748, "instnm": "The Restaurant School at Walnut Hill College", "FTE": 480, "ADDRESS": "4207 Walnut St" }, "geometry": { "type": "Point", "coordinates": [ -75.207535397996637, 39.954739889887549 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "X": -75.238973, "Y": 39.995272, "instnm": "Saint Joseph's University", "FTE": 5242, "ADDRESS": "5600 City Avenue" }, "geometry": { "type": "Point", "coordinates": [ -75.238969931573124, 39.995264404981341 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "X": -75.24827, "Y": 39.989183, "instnm": "Talmudical Yeshiva of Philadelphia", "FTE": 110, "ADDRESS": "6063 Drexel Rd" }, "geometry": { "type": "Point", "coordinates": [ -75.248267427001153, 39.989175047524895 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "X": -75.157467, "Y": 39.980333, "instnm": "Temple University", "FTE": 31324, "ADDRESS": "1801 North Broad Street" }, "geometry": { "type": "Point", "coordinates": [ -75.157464049295569, 39.980325037005287 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "X": -75.157716, "Y": 39.948454, "instnm": "Thomas Jefferson University", "FTE": 2492, "ADDRESS": "1020 Walnut Street" }, "geometry": { "type": "Point", "coordinates": [ -75.157712747154505, 39.94844569734331 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "X": -75.01285, "Y": 40.07217, "instnm": "Aviation Institute of Maintenance-Philadelphia", "FTE": 167, "ADDRESS": "3001 Grant Avenue" }, "geometry": { "type": "Point", "coordinates": [ -75.012847147545259, 40.07216158659481 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "X": -75.007828, "Y": 40.100805, "instnm": "DPT Business School", "FTE": 727, "ADDRESS": "11000 Roosevelt Blvd Ste 200" }, "geometry": { "type": "Point", "coordinates": [ -75.007825253395396, 40.100796514742406 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "X": -75.165996, "Y": 39.951062, "instnm": "Empire Beauty School-Philadelphia Chestnut St", "FTE": 291, "ADDRESS": "1522 Chestnut St" }, "geometry": { "type": "Point", "coordinates": [ -75.165992981374117, 39.951054150123191 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "X": -75.107018, "Y": 39.989322, "instnm": "Northeastern Hospital School of Nursing", "FTE": 80, "ADDRESS": "2301 E Allegheny Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.107015689730204, 39.989313700406584 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "X": -75.033828, "Y": 40.073252, "instnm": "Star Career Academy-Philadelphia", "FTE": 504, "ADDRESS": "2371 Welsh Road" }, "geometry": { "type": "Point", "coordinates": [ -75.03382553782609, 40.073244006133699 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "X": -75.125273, "Y": 40.006248, "instnm": "Philadelphia School of Radiologic Technology", "FTE": 35, "ADDRESS": "St. Christopher's Hospital 3601 A Street" }, "geometry": { "type": "Point", "coordinates": [ -75.125269795917532, 40.006239953704785 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "X": -75.148334, "Y": 39.940661, "instnm": "Jean Madeline Aveda Institute", "FTE": 209, "ADDRESS": "315A Bainbridge St" }, "geometry": { "type": "Point", "coordinates": [ -75.14833079459838, 39.94065287955376 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "X": -75.046585, "Y": 40.057335, "instnm": "Prism Career Institute", "FTE": 533, "ADDRESS": "8040 Roosevelt Boulevard" }, "geometry": { "type": "Point", "coordinates": [ -75.046581894749707, 40.057327296746024 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "X": -75.167386, "Y": 39.935169, "instnm": "Jna Institute of Culinary Arts", "FTE": 72, "ADDRESS": "1212 S Broad St" }, "geometry": { "type": "Point", "coordinates": [ -75.167383208899096, 39.935160550330096 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "X": -75.160036, "Y": 39.968878, "instnm": "L T International Beauty School", "FTE": 76, "ADDRESS": "830 North Broad Street" }, "geometry": { "type": "Point", "coordinates": [ -75.160033221178537, 39.968870334371339 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "X": -74.991746, "Y": 40.112929, "instnm": "Lincoln Technical Institute", "FTE": 648, "ADDRESS": "2180 Hornig Rd" }, "geometry": { "type": "Point", "coordinates": [ -74.991742821759217, 40.112920876764264 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "X": -75.194485, "Y": 39.956203, "instnm": "Lincoln Technical Institute", "FTE": 787, "ADDRESS": "3600 Market St" }, "geometry": { "type": "Point", "coordinates": [ -75.194482126040853, 39.956195218128244 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "X": -75.014943, "Y": 40.095513, "instnm": "National Massage Therapy Institute", "FTE": 769, "ADDRESS": "10050 Roosevelt Blvd" }, "geometry": { "type": "Point", "coordinates": [ -75.014940324460582, 40.095504616045922 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "X": -75.109231, "Y": 39.998676, "instnm": "Kimberly's Beauty School", "FTE": 66, "ADDRESS": "3355-57 Kensington Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.10922796346081, 39.99866763062996 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "X": -75.075274, "Y": 40.041742, "instnm": "International Beauty Academy", "FTE": 35, "ADDRESS": "6534 Castor Ave" }, "geometry": { "type": "Point", "coordinates": [ -75.075271173603042, 40.041734206867915 ] } }
+
+]
+}

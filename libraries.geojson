@@ -1,0 +1,52 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 73, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 86.0, "ADDRESS": "550 DISCOVERY BLVD", "NAME": "CEDAR PARK LIBRARY", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3086595.72, 10161392.35 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 149.0, "ADDRESS": "5803 NUCKOLS CROSSING", "NAME": "SOUTH EAST COMM BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3115273.12, 10041512.279999999 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 150.0, "ADDRESS": "1161 ANGELINA ST", "NAME": "CARVER BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3120046.88, 10071402.470000001 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 151.0, "ADDRESS": "2500 EXPOSITION BLVD", "NAME": "HOWSON BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3106238.99, 10081549.15 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 152.0, "ADDRESS": "835 W. RUNDBERG LA", "NAME": "LITTLE WALNUT CREEK BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3127457.06, 10105642.970000001 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 153.0, "ADDRESS": "5500 MANCHACA RD", "NAME": "MANCHACA BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3097555.81, 10051657.050000001 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 155.0, "ADDRESS": "2505 STECK AVE", "NAME": "NORTH VILLAGE BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3117359.53, 10105057.039999999 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 156.0, "ADDRESS": "3101 OAK SPRINGS DR", "NAME": "OAK SPRINGS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3127850.62, 10072822.710000001 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 157.0, "ADDRESS": "7051 VILLAGE CENTER DR", "NAME": "OLD QUARRY BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3109709.56, 10101525.42 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 158.0, "ADDRESS": "211 E. WILLIAM CANNON DR", "NAME": "PLEASANT HILL BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3104112.7, 10042930.550000001 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 159.0, "ADDRESS": "1600 GROVE BLVD", "NAME": "RUIZ BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3126011.59, 10057198.16 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 160.0, "ADDRESS": "8637 SPICEWOOD SPRINGS RD", "NAME": "SPICEWOOD SPRINGS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3103362.77, 10130753.029999999 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 163.0, "ADDRESS": "5833 WESTMINSTER DR", "NAME": "WINDSOR VILLAGE BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3130531.85, 10086987.91 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 164.0, "ADDRESS": "1105 EAST CESAR CHAVEZ", "NAME": "TERRAZAS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3117337.07, 10067852.41 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 165.0, "ADDRESS": "800 GUADALUPE", "NAME": "HENRY FAULK MAIN", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3113320.85, 10071936.15 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 166.0, "ADDRESS": "5125 CONVICT HILL", "NAME": "WILL HAMPTON BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3079214.99, 10052143.58 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 167.0, "ADDRESS": "651 N PLEASANT VALLEY", "NAME": "CEPEDA BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3124902.54, 10067970.66 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 168.0, "ADDRESS": "12500 AMHERST DR", "NAME": "MILWOOD BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3121789.94, 10127384.9 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 169.0, "ADDRESS": "7500 BLESSING AVE", "NAME": "ST JOHNS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3129370.32, 10094416.75 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 154.0, "ADDRESS": "2200 HANCOCK DR", "NAME": "YARBOROUGH BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3114496.46, 10090936.4 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 162.0, "ADDRESS": "4721 LOYOLA LA", "NAME": "UNIVERSITY HILLS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3138008.15, 10086153.300000001 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 32.0, "ADDRESS": "810 GUADALUPE ST", "NAME": "AUSTIN HISTORY CENTER", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3113350.88, 10072021.18 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "SDE_FACILI": 0.0, "PERIMETER": 0.0, "FAC_": 0.0, "FAC_ID": 161.0, "ADDRESS": "1800 S. FIFTH STREET", "NAME": "TWIN OAKS BRANCH", "FACILITY": "LIBRARY", "D_OCT92_": 0.0, "D_OCT92_ID": 0.0, "D_OCT92_S": null, "TYPE": 0, "SECTORS_": null, "JURIS_": null }, "geometry": { "type": "Point", "coordinates": [ 3108326.72, 10063612.119999999 ] } }
+
+]
+}
